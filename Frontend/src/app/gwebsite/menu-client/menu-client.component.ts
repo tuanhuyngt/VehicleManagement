@@ -108,7 +108,7 @@ export class MenuClientComponent extends AppComponentBase implements AfterViewIn
     }
 
     inActiveMenuClient(id): void{
-        this._menuClientService.inActiveMenuClient(id);
+        //this._menuClientService.inActiveMenuClient(id);
     }
 
     /**

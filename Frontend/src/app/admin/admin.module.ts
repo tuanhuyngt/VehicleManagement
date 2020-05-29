@@ -1,3 +1,4 @@
+import { Group2Module } from './../modules/group2.Dashboard/group2.module';
 import { CommonModule } from '@angular/common';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
@@ -70,7 +71,8 @@ import { UsersComponent } from './users/users.component';
         PrimeNgFileUploadModule,
         AutoCompleteModule,
         EditorModule,
-        InputMaskModule
+        InputMaskModule,
+        Group2Module
     ],
     declarations: [
         UsersComponent,
