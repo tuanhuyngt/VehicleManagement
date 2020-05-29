@@ -27,11 +27,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\New folder (3)\Group2.AbpZeroTemplate.Application\Group2.AbpZeroTemplate.Application.csproj" />
     <ProjectReference Include="..\GSoft.AbpZeroTemplate.Core\GSoft.AbpZeroTemplate.Core.csproj" />
     <ProjectReference Include="..\GSoft.AbpZeroTemplate.EntityFrameworkCore\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\GWebsite.AbpZeroTemplate.Application\GWebsite.AbpZeroTemplate.Application.csproj" />
     <ProjectReference Include="..\modules\group0.Demo\Group0.AbpZeroTemplate.Application\Group0.AbpZeroTemplate.Application.csproj" />
+    <ProjectReference Include="..\modules\group2.Dashboard\Group2.AbpZeroTemplate.Application\Group2.AbpZeroTemplate.Application.csproj" />
   </ItemGroup>
 
   <ItemGroup>

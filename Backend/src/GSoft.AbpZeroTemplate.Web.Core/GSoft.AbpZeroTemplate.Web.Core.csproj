@@ -14,11 +14,11 @@
   </PropertyGroup>
  
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\New folder (3)\Group2.AbpZeroTemplate.Web.Core\Group2.AbpZeroTemplate.Web.Core.csproj" />
     <ProjectReference Include="..\GSoft.AbpZeroTemplate.Application\GSoft.AbpZeroTemplate.Application.csproj" />
     <ProjectReference Include="..\GSoft.AbpZeroTemplate.EntityFrameworkCore\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj" />
     <ProjectReference Include="..\GWebsite.AbpZeroTemplate.Web.Core\GWebsite.AbpZeroTemplate.Web.Core.csproj" />
     <ProjectReference Include="..\modules\group0.Demo\Group0.AbpZeroTemplate.Web.Core\Group0.AbpZeroTemplate.Web.Core.csproj" />
+    <ProjectReference Include="..\modules\group2.Dashboard\Group2.AbpZeroTemplate.Web.Core\Group2.AbpZeroTemplate.Web.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>

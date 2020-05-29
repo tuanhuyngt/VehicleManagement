@@ -8,7 +8,6 @@ using Microsoft.AspNetCore.Builder;
 using Abp.Application.Services;
 using Abp.Runtime.Session;
 using System.Threading.Tasks;
-using GSoft.AbpZeroTemplate.Sessions;
 using GSoft.AbpZeroTemplate.Sessions.Dto;
 
 namespace Group2.AbpZeroTemplate.Web.Core.Vehicles
